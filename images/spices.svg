@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <circle cx="50" cy="50" r="45" fill="#FFF5E6"/>
+  <!-- Spice containers -->
+  <rect x="25" y="35" width="15" height="25" fill="#8B4513" rx="2"/>
+  <rect x="25" y="32" width="15" height="4" fill="#654321"/>
+  <rect x="42" y="30" width="15" height="30" fill="#A0522D" rx="2"/>
+  <rect x="42" y="27" width="15" height="4" fill="#654321"/>
+  <rect x="59" y="35" width="15" height="25" fill="#D2691E" rx="2"/>
+  <rect x="59" y="32" width="15" height="4" fill="#654321"/>
+  <!-- Spice powder -->
+  <ellipse cx="33" cy="70" rx="8" ry="3" fill="#CD853F" opacity="0.6"/>
+  <ellipse cx="50" cy="72" rx="10" ry="3" fill="#FF8C42" opacity="0.5"/>
+  <ellipse cx="67" cy="70" rx="8" ry="3" fill="#FFD166" opacity="0.5"/>
+</svg>

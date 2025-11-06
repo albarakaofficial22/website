@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" fill="none">
+  <!-- Store shelves background -->
+  <rect width="400" height="300" fill="#FFF8F3"/>
+  
+  <!-- Shelves -->
+  <rect x="0" y="80" width="400" height="5" fill="#6B4423"/>
+  <rect x="0" y="160" width="400" height="5" fill="#6B4423"/>
+  <rect x="0" y="240" width="400" height="5" fill="#6B4423"/>
+  
+  <!-- Products on shelves -->
+  <!-- Top shelf - spices -->
+  <rect x="20" y="50" width="25" height="30" fill="#D2691E" rx="2"/>
+  <rect x="50" y="50" width="25" height="30" fill="#CD853F" rx="2"/>
+  <rect x="80" y="50" width="25" height="30" fill="#8B4513" rx="2"/>
+  <rect x="110" y="45" width="25" height="35" fill="#A0522D" rx="2"/>
+  <rect x="140" y="50" width="25" height="30" fill="#D2691E" rx="2"/>
+  
+  <!-- Middle shelf - jars -->
+  <ellipse cx="35" cy="145" rx="15" ry="20" fill="#FFD166"/>
+  <rect x="20" y="125" width="30" height="3" fill="#6B4423"/>
+  <ellipse cx="75" cy="145" rx="15" ry="20" fill="#FF8C42"/>
+  <rect x="60" y="125" width="30" height="3" fill="#6B4423"/>
+  <ellipse cx="115" cy="145" rx="15" ry="20" fill="#D64545"/>
+  <rect x="100" y="125" width="30" height="3" fill="#6B4423"/>
+  
+  <!-- Bottom shelf - produce boxes -->
+  <rect x="20" y="200" width="40" height="40" fill="#A8D5A8" rx="3"/>
+  <rect x="70" y="200" width="40" height="40" fill="#8FBC8F" rx="3"/>
+  <rect x="120" y="200" width="40" height="40" fill="#B4D4B4" rx="3"/>
+  
+  <!-- Fresh produce display -->
+  <ellipse cx="280" cy="220" rx="60" ry="30" fill="#6B4423"/>
+  <ellipse cx="280" cy="215" rx="58" ry="28" fill="#8B7355"/>
+  <!-- Fruits in basket -->
+  <circle cx="260" cy="205" r="10" fill="#FF8C42"/>
+  <circle cx="280" cy="200" r="12" fill="#D64545"/>
+  <circle cx="300" cy="205" r="10" fill="#FFD166"/>
+  <circle cx="270" cy="195" r="8" fill="#A8D5A8"/>
+  <circle cx="290" cy="195" r="8" fill="#8FBC8F"/>
+  
+  <!-- Hanging sign -->
+  <rect x="150" y="20" width="100" height="40" fill="#4A7C59" rx="5"/>
+  <text x="200" y="45" text-anchor="middle" fill="white" font-family="Arial" font-size="14" font-weight="bold">FRESH DAILY</text>
+  
+  <!-- Ceiling lights -->
+  <ellipse cx="100" cy="10" rx="20" ry="5" fill="#FFFFE0" opacity="0.6"/>
+  <ellipse cx="200" cy="10" rx="20" ry="5" fill="#FFFFE0" opacity="0.6"/>
+  <ellipse cx="300" cy="10" rx="20" ry="5" fill="#FFFFE0" opacity="0.6"/>
+</svg>

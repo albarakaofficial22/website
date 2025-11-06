@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <circle cx="50" cy="50" r="45" fill="#F5F5DC"/>
+  <!-- Olive oil bottle -->
+  <rect x="20" y="35" width="20" height="35" fill="#808000" rx="3"/>
+  <rect x="22" y="30" width="16" height="8" fill="#6B8E23"/>
+  <rect x="26" y="25" width="8" height="8" fill="#556B2F"/>
+  <text x="30" y="55" text-anchor="middle" fill="white" font-size="6">OLIVE</text>
+  <!-- Tahini jar -->
+  <ellipse cx="60" cy="55" rx="15" ry="20" fill="#F5DEB3"/>
+  <rect x="45" y="35" width="30" height="3" fill="#8B7355"/>
+  <text x="60" y="58" text-anchor="middle" fill="#8B4513" font-size="6">TAHINI</text>
+  <!-- Preserved lemons -->
+  <circle cx="50" cy="75" r="8" fill="#FFD700"/>
+  <circle cx="45" cy="73" r="6" fill="#FFD166"/>
+  <circle cx="55" cy="73" r="6" fill="#FFD166"/>
+</svg>

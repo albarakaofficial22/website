@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <circle cx="50" cy="50" r="45" fill="#F0F8FF"/>
+  <!-- Cheese wheel -->
+  <ellipse cx="50" cy="40" rx="25" ry="20" fill="#FFFACD"/>
+  <ellipse cx="50" cy="37" rx="25" ry="20" fill="#FFFFE0"/>
+  <!-- Cheese holes -->
+  <ellipse cx="45" cy="35" rx="3" ry="2" fill="#FFFACD"/>
+  <ellipse cx="55" cy="38" rx="2" ry="2" fill="#FFFACD"/>
+  <ellipse cx="48" cy="40" rx="2" ry="1.5" fill="#FFFACD"/>
+  <!-- Yogurt container -->
+  <rect x="35" y="55" width="30" height="25" fill="white" rx="3"/>
+  <rect x="35" y="55" width="30" height="5" fill="#4A7C59"/>
+  <text x="50" y="70" text-anchor="middle" fill="#8FBC8F" font-size="8">Labneh</text>
+</svg>

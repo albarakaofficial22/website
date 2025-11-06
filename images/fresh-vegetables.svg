@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" fill="none">
+  <!-- Background gradient -->
+  <rect width="400" height="300" fill="url(#vegGrad)"/>
+  
+  <!-- Large lettuce leaves -->
+  <ellipse cx="100" cy="200" rx="60" ry="40" fill="#A8D5A8" transform="rotate(-20 100 200)"/>
+  <ellipse cx="120" cy="190" rx="50" ry="35" fill="#8FBC8F" transform="rotate(10 120 190)"/>
+  <path d="M70 200Q100 180 130 200Q100 190 70 200Z" fill="#4A7C59" opacity="0.3"/>
+  
+  <!-- Tomatoes cluster -->
+  <circle cx="200" cy="180" r="30" fill="#D64545"/>
+  <circle cx="230" cy="190" r="28" fill="#E85555"/>
+  <circle cx="215" cy="210" r="25" fill="#D64545"/>
+  <path d="M200 155C200 155 195 150 200 148C205 150 200 155 200 155Z" fill="#4A7C59"/>
+  <path d="M230 165C230 165 225 160 230 158C235 160 230 165 230 165Z" fill="#4A7C59"/>
+  
+  <!-- Carrots -->
+  <ellipse cx="300" cy="200" rx="12" ry="40" fill="#FF8C42" transform="rotate(25 300 200)"/>
+  <ellipse cx="320" cy="195" rx="10" ry="35" fill="#FFA052" transform="rotate(30 320 195)"/>
+  <path d="M295 170C295 170 290 165 292 160M292 165C292 165 287 160 289 155" stroke="#4A7C59" stroke-width="2"/>
+  <path d="M315 165C315 165 310 160 312 155M312 160C312 160 307 155 309 150" stroke="#4A7C59" stroke-width="2"/>
+  
+  <!-- Bell peppers -->
+  <path d="M150 150Q140 130 150 110Q160 130 150 150Z" fill="#FFD166"/>
+  <path d="M150 110C150 110 145 105 150 103C155 105 150 110 150 110Z" fill="#4A7C59"/>
+  <path d="M140 130Q150 140 160 130" stroke="#FFBF00" stroke-width="2" fill="none"/>
+  
+  <!-- Cucumber slices -->
+  <ellipse cx="80" cy="120" rx="25" ry="20" fill="#8FBC8F"/>
+  <ellipse cx="80" cy="120" rx="20" ry="15" fill="#B4D4B4"/>
+  <ellipse cx="80" cy="120" rx="8" ry="6" fill="#A8D5A8"/>
+  <circle cx="75" cy="118" r="2" fill="#6B8E6B" opacity="0.5"/>
+  <circle cx="85" cy="118" r="2" fill="#6B8E6B" opacity="0.5"/>
+  <circle cx="80" cy="125" r="2" fill="#6B8E6B" opacity="0.5"/>
+  
+  <!-- Broccoli -->
+  <g transform="translate(250, 120)">
+    <rect x="-5" y="0" width="10" height="20" fill="#4A7C59"/>
+    <circle cx="0" cy="-5" r="8" fill="#4A7C59"/>
+    <circle cx="-8" cy="-3" r="7" fill="#5A8C69"/>
+    <circle cx="8" cy="-3" r="7" fill="#5A8C69"/>
+    <circle cx="0" cy="-12" r="6" fill="#6A9C79"/>
+    <circle cx="-5" cy="-10" r="5" fill="#6A9C79"/>
+    <circle cx="5" cy="-10" r="5" fill="#6A9C79"/>
+  </g>
+  
+  <!-- Decorative leaves -->
+  <path d="M350 250Q360 230 370 250Q360 240 350 250Z" fill="#A8D5A8" opacity="0.5"/>
+  <path d="M30 250Q40 230 50 250Q40 240 30 250Z" fill="#8FBC8F" opacity="0.5"/>
+  
+  <defs>
+    <linearGradient id="vegGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FAFFF5;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#F0FFF0;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+</svg>

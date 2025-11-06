@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <circle cx="50" cy="50" r="45" fill="#FFE8E8"/>
+  <!-- Meat cut -->
+  <ellipse cx="50" cy="50" rx="30" ry="25" fill="#D2691E"/>
+  <ellipse cx="50" cy="50" rx="25" ry="20" fill="#CD853F"/>
+  <!-- Marbling -->
+  <path d="M35 45Q45 48 55 45" stroke="#F5DEB3" stroke-width="2" fill="none"/>
+  <path d="M30 50Q40 53 50 50Q60 47 70 50" stroke="#F5DEB3" stroke-width="2" fill="none"/>
+  <path d="M35 55Q45 52 55 55" stroke="#F5DEB3" stroke-width="1.5" fill="none"/>
+  <!-- Halal symbol -->
+  <circle cx="70" cy="30" r="10" fill="#4A7C59"/>
+  <text x="70" y="34" text-anchor="middle" fill="white" font-size="8" font-weight="bold">H</text>
+</svg>

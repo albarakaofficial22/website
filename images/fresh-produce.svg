@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <circle cx="50" cy="50" r="45" fill="#E8F5E8"/>
+  <!-- Lettuce -->
+  <ellipse cx="35" cy="50" rx="15" ry="20" fill="#A8D5A8"/>
+  <path d="M25 50Q35 40 45 50Q35 45 25 50Z" fill="#8FBC8F" opacity="0.7"/>
+  <!-- Tomato -->
+  <circle cx="60" cy="45" r="12" fill="#D64545"/>
+  <path d="M60 35C60 35 58 33 60 32C62 33 60 35 60 35Z" fill="#4A7C59"/>
+  <!-- Carrot -->
+  <ellipse cx="50" cy="65" rx="5" ry="15" fill="#FF8C42" transform="rotate(30 50 65)"/>
+  <path d="M48 55C48 55 46 52 47 50" stroke="#4A7C59" stroke-width="1"/>
+</svg>

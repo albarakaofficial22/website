@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" fill="none">
+  <circle cx="30" cy="30" r="28" fill="#4A7C59"/>
+  <!-- Cleaver -->
+  <rect x="15" y="20" width="20" height="25" fill="#C0C0C0" rx="2"/>
+  <rect x="15" y="18" width="20" height="5" fill="#A9A9A9"/>
+  <!-- Handle -->
+  <rect x="23" y="40" width="4" height="10" fill="#8B4513" rx="1"/>
+  <!-- Blade detail -->
+  <circle cx="30" cy="32" r="2" fill="#A9A9A9"/>
+</svg>

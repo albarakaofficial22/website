@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" fill="none">
+  <circle cx="30" cy="30" r="28" fill="#FF8C42"/>
+  <!-- Serving platter -->
+  <ellipse cx="30" cy="30" rx="20" ry="5" fill="#C0C0C0"/>
+  <ellipse cx="30" cy="28" rx="20" ry="5" fill="#D3D3D3"/>
+  <!-- Food items -->
+  <circle cx="25" cy="26" r="4" fill="#8B4513"/>
+  <circle cx="35" cy="26" r="4" fill="#D2691E"/>
+  <ellipse cx="30" cy="25" rx="6" ry="3" fill="#4A7C59"/>
+  <!-- Cloche handle -->
+  <circle cx="30" cy="18" r="2" fill="#A9A9A9"/>
+</svg>

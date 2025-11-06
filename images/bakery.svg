@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <circle cx="50" cy="50" r="45" fill="#FFF8E6"/>
+  <!-- Pita bread -->
+  <ellipse cx="35" cy="50" rx="20" ry="15" fill="#DEB887"/>
+  <ellipse cx="35" cy="50" rx="15" ry="10" fill="#F5DEB3"/>
+  <!-- Baklava -->
+  <g transform="translate(60, 45)">
+    <path d="M0 0L15 0L15 10L0 10Z" fill="#D2691E"/>
+    <path d="M0 2L15 2M0 4L15 4M0 6L15 6M0 8L15 8" stroke="#8B4513" stroke-width="0.5"/>
+    <rect x="0" y="0" width="15" height="10" fill="#FFD700" opacity="0.3"/>
+  </g>
+  <!-- Croissant -->
+  <path d="M45 65Q50 60 55 65Q50 62 45 65Z" fill="#DEB887"/>
+  <path d="M47 65Q50 63 53 65" fill="#CD853F"/>
+</svg>
