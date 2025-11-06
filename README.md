@@ -1,4 +1,4 @@
-# Al Baraka Supermarket Website
+# Al Baraka Supermarket Official Website
 
 ## Description
 A beautiful, modern website for Al Baraka Supermarket featuring a fresh vegetable-inspired color scheme. The website showcases the store's products, services, and contact information with a clean, responsive design.
